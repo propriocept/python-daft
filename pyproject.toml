@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "getdaft>=0.4.1",
+    "ipykernel>=6.29.5",
     "ray[data]>=2.40.0",
 ]
